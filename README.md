@@ -13,8 +13,8 @@ This repository contains an NLP model in ONNX format along with its necessary co
 To use this model, ensure you have the following dependencies installed:
 
 ```bash
-pip install onnxruntime transformers
-
+  pip install onnxruntime transformers
+```
 
 You can copy and paste this into your `README.md` file directly. Let me know if you want any modifications! 🚀
 
