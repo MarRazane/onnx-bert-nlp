@@ -1,0 +1,4 @@
+{
+    "model_type": "bert",
+    "vocab_file_name": "vocab.txt"
+}
